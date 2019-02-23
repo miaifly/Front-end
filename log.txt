@@ -1,1 +1,2 @@
 0363. 📚 docs: clarify environment setup
+1000. ✅ test: increase coverage on auth module
