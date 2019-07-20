@@ -9,3 +9,4 @@
 0140. 🐛 fix: handle 500 error in quiz API
 0798. 🚀 perf: reduce image load time
 0194. 🎨 style: standardize quote style
+0409. 🚀 perf: lazy-load components
