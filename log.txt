@@ -19,3 +19,4 @@
 0621. 🔧 refactor: clean up auth middleware
 0323. 📚 docs: clarify environment setup
 0997. ✅ test: increase coverage on auth module
+0231. 🔧 refactor: clean up auth middleware
