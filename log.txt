@@ -29,3 +29,4 @@
 0844. 📚 docs: update README with setup steps
 0442. 🎨 style: standardize quote style
 0271. ✅ test: add unit test for quiz service
+0329. 📚 docs: update README with setup steps
