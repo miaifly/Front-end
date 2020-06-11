@@ -34,3 +34,4 @@
 0596. ♻️ chore: update .gitignore
 0645. 🐛 fix: resolve issue with date parsing
 0308. 🚀 perf: reduce image load time
+0220. 🐛 fix: fix null pointer exception on login
