@@ -38,3 +38,4 @@
 0142. ✨ feat: implement quiz timer feature
 0602. 🔧 refactor: remove redundant code blocks
 0650. ✅ test: add unit test for quiz service
+0400. 🐛 fix: fix null pointer exception on login
