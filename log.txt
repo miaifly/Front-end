@@ -58,3 +58,4 @@
 0668. 🚀 perf: optimize database query for quiz results
 0415. 🐛 fix: handle 500 error in quiz API
 0760. 🐛 fix: resolve issue with date parsing
+0075. ✅ test: mock database connection in test suite
