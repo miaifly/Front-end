@@ -78,3 +78,4 @@
 0511. 🐛 fix: fix broken CSS in mobile view
 0751. 🐛 fix: handle 500 error in quiz API
 0962. ✨ feat: create admin dashboard
+0266. 🔧 refactor: remove redundant code blocks
