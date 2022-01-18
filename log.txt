@@ -81,3 +81,4 @@
 0266. 🔧 refactor: remove redundant code blocks
 0539. 🔧 refactor: organize models into subfolders
 0727. ♻️ chore: add GitHub actions badge
+0099. 🚀 perf: reduce image load time
