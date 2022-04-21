@@ -93,3 +93,4 @@
 0792. 🎨 style: standardize quote style
 0473. 📚 docs: write FAQ section
 0061. ✨ feat: create admin dashboard
+0673. 🐛 fix: correct typo in registration form
