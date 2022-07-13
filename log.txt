@@ -106,3 +106,4 @@
 0269. ✅ test: test user registration edge cases
 0366. 🔧 refactor: remove redundant code blocks
 0804. ♻️ chore: add GitHub actions badge
+0973. 🔧 refactor: organize models into subfolders
