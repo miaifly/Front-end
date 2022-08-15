@@ -108,3 +108,4 @@
 0804. ♻️ chore: add GitHub actions badge
 0973. 🔧 refactor: organize models into subfolders
 0293. ✅ test: add integration test for /submit endpoint
+0466. 🚀 perf: optimize database query for quiz results
