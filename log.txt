@@ -115,3 +115,4 @@
 0931. 🚀 perf: reduce image load time
 0984. ♻️ chore: clean up unused files
 0113. ✨ feat: add user authentication
+0713. 🐛 fix: handle 500 error in quiz API
