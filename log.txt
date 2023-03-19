@@ -123,3 +123,4 @@
 0241. 📚 docs: add API usage examples
 0587. 🔧 refactor: remove redundant code blocks
 0571. 🔧 refactor: clean up auth middleware
+0592. 📚 docs: add API usage examples
