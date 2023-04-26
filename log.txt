@@ -125,3 +125,4 @@
 0571. 🔧 refactor: clean up auth middleware
 0592. 📚 docs: add API usage examples
 0021. ✨ feat: support email verification
+0944. ✨ feat: add user authentication
