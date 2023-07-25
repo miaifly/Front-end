@@ -134,3 +134,4 @@
 0725. 🚀 perf: lazy-load components
 0557. 🔧 refactor: clean up auth middleware
 0824. 🚀 perf: lazy-load components
+0802. 🔧 refactor: remove redundant code blocks
