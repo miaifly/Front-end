@@ -139,3 +139,4 @@
 0211. 🔧 refactor: remove redundant code blocks
 0794. ♻️ chore: clean up unused files
 0336. ✨ feat: add export to CSV option
+0781. 🚀 perf: reduce image load time
