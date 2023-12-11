@@ -149,3 +149,4 @@
 0527. 🎨 style: remove trailing whitespace
 0483. 📚 docs: update README with setup steps
 0749. ✨ feat: support email verification
+0090. ✅ test: increase coverage on auth module
