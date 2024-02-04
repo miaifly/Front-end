@@ -151,3 +151,4 @@
 0749. ✨ feat: support email verification
 0090. ✅ test: increase coverage on auth module
 0600. 🐛 fix: prevent crash on empty input
+0614. 🚀 perf: reduce image load time
