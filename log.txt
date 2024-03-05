@@ -154,3 +154,4 @@
 0614. 🚀 perf: reduce image load time
 0677. 📚 docs: add API usage examples
 0716. ✨ feat: implement quiz timer feature
+0265. 🎨 style: reformat files with black
