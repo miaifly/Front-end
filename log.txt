@@ -155,3 +155,4 @@
 0677. 📚 docs: add API usage examples
 0716. ✨ feat: implement quiz timer feature
 0265. 🎨 style: reformat files with black
+0618. ✨ feat: support email verification
