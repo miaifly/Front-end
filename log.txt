@@ -163,3 +163,4 @@
 0533. ♻️ chore: add GitHub actions badge
 0238. 🎨 style: apply consistent indentation
 0001. 🚀 perf: cache repeated calculations
+0244. ✨ feat: add export to CSV option
