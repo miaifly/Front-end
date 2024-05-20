@@ -164,3 +164,4 @@
 0238. 🎨 style: apply consistent indentation
 0001. 🚀 perf: cache repeated calculations
 0244. ✨ feat: add export to CSV option
+0901. ✨ feat: add user authentication
