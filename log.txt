@@ -166,3 +166,4 @@
 0244. ✨ feat: add export to CSV option
 0901. ✨ feat: add user authentication
 0885. ♻️ chore: update .gitignore
+0903. ✅ test: mock database connection in test suite
