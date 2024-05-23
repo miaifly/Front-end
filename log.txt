@@ -167,3 +167,4 @@
 0901. ✨ feat: add user authentication
 0885. ♻️ chore: update .gitignore
 0903. ✅ test: mock database connection in test suite
+0026. 🔧 refactor: clean up auth middleware
