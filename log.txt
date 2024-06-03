@@ -168,3 +168,4 @@
 0885. ♻️ chore: update .gitignore
 0903. ✅ test: mock database connection in test suite
 0026. 🔧 refactor: clean up auth middleware
+0111. 📚 docs: update README with setup steps
