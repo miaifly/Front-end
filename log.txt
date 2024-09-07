@@ -175,3 +175,4 @@
 0032. 🎨 style: apply consistent indentation
 0950. 🎨 style: reformat files with black
 0499. 🎨 style: reformat files with black
+0791. 🔧 refactor: clean up auth middleware
