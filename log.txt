@@ -185,3 +185,4 @@
 0361. ✨ feat: support email verification
 0321. 🔧 refactor: organize models into subfolders
 0165. 🎨 style: remove trailing whitespace
+0205. 📚 docs: update README with setup steps
