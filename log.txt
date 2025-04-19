@@ -191,3 +191,4 @@
 0276. ✅ test: add integration test for /submit endpoint
 0063. 🐛 fix: handle 500 error in quiz API
 0444. ✅ test: add unit test for quiz service
+0121. ✨ feat: support email verification
